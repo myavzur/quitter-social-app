@@ -4,6 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
+index12.js
+index12.css
+preview
 
 # testing
 /coverage
