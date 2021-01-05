@@ -38,7 +38,7 @@ class App extends Component {
                     id: "ghghrtert322"
                 },
                 {
-                    title: "Keep in mind, you're able delete everything of this posts by clicking on trash cans",
+                    title: "Keep in mind, you're able delete any of this posts by clicking on trash cans",
                     important: true,
                     like: true,
                     id: "r45cvvsd"

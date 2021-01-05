@@ -35,7 +35,7 @@ export default class PostAddForm extends Component{
             <form className="bottom-panel d-flex" onSubmit={this.onSubmitForm}>
                 <input 
                     type="text"
-                    placeholder="О чем думаете сегодня?"
+                    placeholder="What Are You Thinking About Today?"
                     className="form-control new-post-label"
 
                     onChange={this.onChangeInput}
@@ -45,7 +45,7 @@ export default class PostAddForm extends Component{
                 <button
                     type="submit"
                     className="btn btn-outline-secondary"
-                >Добавить</button>
+                >Post!</button>
             </form>
         )
     }

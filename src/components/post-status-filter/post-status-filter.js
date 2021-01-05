@@ -8,8 +8,8 @@ export default class PostStatusFilter extends Component {
 
         this.state = {
             buttons: [
-                {label: 'Все', filterName: 'all'},
-                {label: 'Понравилось', filterName: 'like'}
+                {label: 'All', filterName: 'all'},
+                {label: 'Liked', filterName: 'like'}
             ]
         }
     }

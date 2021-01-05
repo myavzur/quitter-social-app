@@ -3,8 +3,8 @@ import './app-header.css'
 const AppHeader = ({liked, allPosts}) => {
     return (
         <div className="app-header">
-            <h1>Your Name</h1>
-            <h2>{allPosts} записи, из них {liked} понравилось</h2>
+            <h1>Maxim Filatov</h1>
+            <h2><span className="app-header-value">{allPosts}</span> posts, you liked <span className="app-header-value">{liked}</span> of them</h2>
         </div>
     )
 }

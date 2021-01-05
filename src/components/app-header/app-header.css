@@ -2,7 +2,12 @@
   display: flex;
   align-items: flex-end;
   justify-content: space-between;
+}
 
+.app-header-value {
+  font-weight: bold;
+  color: black;
+  font-size: 20px;
 }
 
 .app-header h1 {
